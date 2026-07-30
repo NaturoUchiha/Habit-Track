@@ -1,0 +1,14 @@
+{
+  "name": "Solo Leveling Status Window",
+  "short_name": "SL Tracker",
+  "description": "Habit tracker RPG ala Solo Leveling — naik level, rank, dan stat lewat checklist harian",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#05060f",
+  "theme_color": "#0b0f24",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
